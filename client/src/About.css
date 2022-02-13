@@ -1,0 +1,13 @@
+.Heading{
+    color: #2596be;
+}
+
+.change{
+    color: black ;
+    transition: all 0.3s ease-in-out;
+}
+.change:hover{
+   
+    color: white;
+    background-color: #2596be;
+}

@@ -1,0 +1,27 @@
+
+.adjust{
+    display:block;
+    overflow-x: auto;
+}
+table{
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+td{
+    
+    white-space: nowrap;
+}
+
+.red{
+    background-color: rgb(255, 67, 67) !important;
+    border: rgb(255, 67, 67) !important;
+}
+.red:hover{
+    background-color: rgb(255, 0, 0) !important;
+    border: rgb(255, 0, 0) !important;
+}
+
+td{
+    margin: 0px 20px;
+}
